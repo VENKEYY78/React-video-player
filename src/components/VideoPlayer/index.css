@@ -31,3 +31,33 @@
   cursor: pointer;
   margin-top: 15px;
 }
+
+.video-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.heading {
+  font-size: 24px;
+  color: #333;
+}
+
+.button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.responsive-container {
+  max-width: 640px;
+  margin: auto;
+}
+
+.custom-player {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
